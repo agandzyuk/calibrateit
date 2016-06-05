@@ -1,0 +1,5 @@
+1) WebCam streaming. 
+2) Using OpenGL 2D/3D objects. 
+3) Using QT framework for widgets/threads and other.
+4) Building the color histogram for WebCam capture (OpenCV algorithm).
+5) Stereo matching between WebCam frames (OpenCV algorithm).
